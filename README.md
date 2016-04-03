@@ -24,4 +24,4 @@ Bài tập:
 ---
 ## **Mảng**
 Bài tập mảng:
-* ![Array](http://github.com/thienduy1295/BaiTap.java/tree/master/src/Array/java)
+* [Array](http://github.com/thienduy1295/BaiTap.java/tree/master/src/Array/java)
